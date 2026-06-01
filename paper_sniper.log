@@ -1,19 +1,18 @@
 🚀 Paper Trading Sniper Started (100 coins/day limit)
-📅 New Day: 2026-06-01. Resetting daily selection.
 🔍 Scanning for new candidates...
 DEBUG: Found 697 raw pairs from DexScreener
-DEBUG: 21 unique candidates passed the filter.
-➕ Added 21 new coins. Total today: 21
+DEBUG: 2 unique candidates passed the filter.
+➕ Added 2 new coins. Total today: 23
 
 📈 --- Paper Trading Report (2026-06-01) ---
-Total Coins Tracked: 21
-Cumulative PnL: $0.00
+Total Coins Tracked: 23
+Cumulative PnL: $-7.63
 
 Top Performers:
+- $TRUMP: 2.54%
+- $Bonk: 2.16%
+- $DEGEN: 0.10%
+- $SOL: 0.04%
 - $SOL: 0.00%
-- $SOLANA: 0.00%
-- $SOL: 0.00%
-- $PUMP: 0.00%
-- $MOON: 0.00%
 
-⏳ Limit (21/100) not reached. Scanning again in 1 minute...
+⏳ Limit (23/100) not reached. Scanning again in 1 minute...

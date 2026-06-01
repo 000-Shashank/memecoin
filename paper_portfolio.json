@@ -5,15 +5,15 @@
             "symbol": "SOL",
             "entry_price": 80.9,
             "entry_time": 1780317928.16666,
-            "current_price": 80.9,
-            "pnl_pct": 0.0
+            "current_price": 80.93,
+            "pnl_pct": 0.03708281829419176
         },
         "GofmJoa598m6f67PS3mszhRSDf5hJWP972EGmAn9pump": {
             "symbol": "SOLANA",
             "entry_price": 3.328e-05,
             "entry_time": 1780317928.166671,
-            "current_price": 3.328e-05,
-            "pnl_pct": 0.0
+            "current_price": 2.945e-05,
+            "pnl_pct": -11.508413461538458
         },
         "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF": {
             "symbol": "SOL",
@@ -26,8 +26,8 @@
             "symbol": "PUMP",
             "entry_price": 0.001764,
             "entry_time": 1780317928.166801,
-            "current_price": 0.001764,
-            "pnl_pct": 0.0
+            "current_price": 0.001756,
+            "pnl_pct": -0.45351473922902363
         },
         "Ar2AuUroSpv4npPFDWEQ6XBzYmUU41jrYGbxs5ENpump": {
             "symbol": "MOON",
@@ -103,22 +103,22 @@
             "symbol": "TRUMP",
             "entry_price": 1.97,
             "entry_time": 1780317928.167358,
-            "current_price": 1.97,
-            "pnl_pct": 0.0
+            "current_price": 1.96,
+            "pnl_pct": -0.5076142131979701
         },
         "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump": {
             "symbol": "TRUMP",
             "entry_price": 9.199e-05,
             "entry_time": 1780317928.167362,
-            "current_price": 9.199e-05,
-            "pnl_pct": 0.0
+            "current_price": 9.433e-05,
+            "pnl_pct": 2.5437547559517277
         },
         "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
             "symbol": "Bonk",
             "entry_price": 5.454e-06,
             "entry_time": 1780317928.167427,
-            "current_price": 5.454e-06,
-            "pnl_pct": 0.0
+            "current_price": 5.572e-06,
+            "pnl_pct": 2.163549688302171
         },
         "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82": {
             "symbol": "BOME",
@@ -131,8 +131,8 @@
             "symbol": "DEGEN",
             "entry_price": 0.001035,
             "entry_time": 1780317928.1676621,
-            "current_price": 0.001035,
-            "pnl_pct": 0.0
+            "current_price": 0.001036,
+            "pnl_pct": 0.09661835748793554
         },
         "FmjijgwEHpe32VPvHy1s7u7TLthh9yu1j75djVbWpump": {
             "symbol": "DEGEN",
@@ -147,7 +147,21 @@
             "entry_time": 1780317928.167688,
             "current_price": 0.001036,
             "pnl_pct": 0.0
+        },
+        "3UQZMLt98j9T1egWLKkz51pwFQWakwzQtse56TGbavXP": {
+            "symbol": "SHIB",
+            "entry_price": 6.089e-06,
+            "entry_time": 1780318318.71196,
+            "current_price": 6.089e-06,
+            "pnl_pct": 0.0
+        },
+        "FVwMWK4BrwGG2R5JaVberdJc7wpkc7CXjRaahct2dsfr": {
+            "symbol": "Grok",
+            "entry_price": 4.426e-05,
+            "entry_time": 1780318318.7122219,
+            "current_price": 4.426e-05,
+            "pnl_pct": 0.0
         }
     },
-    "total_selected_today": 21
+    "total_selected_today": 23
 }
