@@ -2,6 +2,8 @@
 # Move to the project directory
 cd /Users/apple/crypto_sniper
 
+echo "🚀 GitHub Sync Service Started: $(date)"
+
 while true; do
     # Add all changes except those in .gitignore
     git add .
