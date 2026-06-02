@@ -5285,6 +5285,390 @@ Call log:
   - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
 
 📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAlert
+Call log:
+  - navigating to "https://t.me/s/AirdropAlert", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop6): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop6
+Call log:
+  - navigating to "https://t.me/s/Airdrop6", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropInspector): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropInspector
+Call log:
+  - navigating to "https://t.me/s/AirdropInspector", waiting until "domcontentloaded"
+
+❌ TG Error (@CryptoAirdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/CryptoAirdrops
+Call log:
+  - navigating to "https://t.me/s/CryptoAirdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropDet): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropDet
+Call log:
+  - navigating to "https://t.me/s/AirdropDet", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropFinder): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropFinder
+Call log:
+  - navigating to "https://t.me/s/AirdropFinder", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropAdventure): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAdventure
+Call log:
+  - navigating to "https://t.me/s/AirdropAdventure", waiting until "domcontentloaded"
+
+❌ TG Error (@ICO_Airdrop_Alert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/ICO_Airdrop_Alert
+Call log:
+  - navigating to "https://t.me/s/ICO_Airdrop_Alert", waiting until "domcontentloaded"
+
+❌ TG Error (@DeFi_Airdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/DeFi_Airdrops
+Call log:
+  - navigating to "https://t.me/s/DeFi_Airdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@Solana_Airdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Solana_Airdrop
+Call log:
+  - navigating to "https://t.me/s/Solana_Airdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropStar): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropStar
+Call log:
+  - navigating to "https://t.me/s/AirdropStar", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Ninjua): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop_Ninjua
+Call log:
+  - navigating to "https://t.me/s/Airdrop_Ninjua", waiting until "domcontentloaded"
+
+❌ TG Error (@GemsAirdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/GemsAirdrop
+Call log:
+  - navigating to "https://t.me/s/GemsAirdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Expert): Page.🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAlert
+Call log:
+  - navigating to "https://t.me/s/AirdropAlert", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop6): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop6
+Call log:
+  - navigating to "https://t.me/s/Airdrop6", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropInspector): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropInspector
+Call log:
+  - navigating to "https://t.me/s/AirdropInspector", waiting until "domcontentloaded"
+
+❌ TG Error (@CryptoAirdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/CryptoAirdrops
+Call log:
+  - navigating to "https://t.me/s/CryptoAirdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropDet): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropDet
+Call log:
+  - navigating to "https://t.me/s/AirdropDet", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropFinder): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropFinder
+Call log:
+  - navigating to "https://t.me/s/AirdropFinder", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropAdventure): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAdventure
+Call log:
+  - navigating to "https://t.me/s/AirdropAdventure", waiting until "domcontentloaded"
+
+❌ TG Error (@ICO_Airdrop_Alert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/ICO_Airdrop_Alert
+Call log:
+  - navigating to "https://t.me/s/ICO_Airdrop_Alert", waiting until "domcontentloaded"
+
+❌ TG Error (@DeFi_Airdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/DeFi_Airdrops
+Call log:
+  - navigating to "https://t.me/s/DeFi_Airdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@Solana_Airdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Solana_Airdrop
+Call log:
+  - navigating to "https://t.me/s/Solana_Airdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropStar): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropStar
+Call log:
+  - navigating to "https://t.me/s/AirdropStar", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Ninjua): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop_Ninjua
+Call log:
+  - navigating to "https://t.me/s/Airdrop_Ninjua", waiting until "domcontentloaded"
+
+❌ TG Error (@GemsAirdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/GemsAirdrop
+Call log:
+  - navigating to "https://t.me/s/GemsAirdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Expert): Page.🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAlert
+Call log:
+  - navigating to "https://t.me/s/AirdropAlert", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop6): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop6
+Call log:
+  - navigating to "https://t.me/s/Airdrop6", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropInspector): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropInspector
+Call log:
+  - navigating to "https://t.me/s/AirdropInspector", waiting until "domcontentloaded"
+
+❌ TG Error (@CryptoAirdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/CryptoAirdrops
+Call log:
+  - navigating to "https://t.me/s/CryptoAirdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropDet): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropDet
+Call log:
+  - navigating to "https://t.me/s/AirdropDet", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropFinder): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropFinder
+Call log:
+  - navigating to "https://t.me/s/AirdropFinder", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropAdventure): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAdventure
+Call log:
+  - navigating to "https://t.me/s/AirdropAdventure", waiting until "domcontentloaded"
+
+❌ TG Error (@ICO_Airdrop_Alert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/ICO_Airdrop_Alert
+Call log:
+  - navigating to "https://t.me/s/ICO_Airdrop_Alert", waiting until "domcontentloaded"
+
+❌ TG Error (@DeFi_Airdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/DeFi_Airdrops
+Call log:
+  - navigating to "https://t.me/s/DeFi_Airdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@Solana_Airdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Solana_Airdrop
+Call log:
+  - navigating to "https://t.me/s/Solana_Airdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropStar): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropStar
+Call log:
+  - navigating to "https://t.me/s/AirdropStar", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Ninjua): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop_Ninjua
+Call log:
+  - navigating to "https://t.me/s/Airdrop_Ninjua", waiting until "domcontentloaded"
+
+❌ TG Error (@GemsAirdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/GemsAirdrop
+Call log:
+  - navigating to "https://t.me/s/GemsAirdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Expert): Page.🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAlert
+Call log:
+  - navigating to "https://t.me/s/AirdropAlert", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop6): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop6
+Call log:
+  - navigating to "https://t.me/s/Airdrop6", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropInspector): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropInspector
+Call log:
+  - navigating to "https://t.me/s/AirdropInspector", waiting until "domcontentloaded"
+
+❌ TG Error (@CryptoAirdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/CryptoAirdrops
+Call log:
+  - navigating to "https://t.me/s/CryptoAirdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropDet): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropDet
+Call log:
+  - navigating to "https://t.me/s/AirdropDet", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropFinder): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropFinder
+Call log:
+  - navigating to "https://t.me/s/AirdropFinder", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropAdventure): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAdventure
+Call log:
+  - navigating to "https://t.me/s/AirdropAdventure", waiting until "domcontentloaded"
+
+❌ TG Error (@ICO_Airdrop_Alert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/ICO_Airdrop_Alert
+Call log:
+  - navigating to "https://t.me/s/ICO_Airdrop_Alert", waiting until "domcontentloaded"
+
+❌ TG Error (@DeFi_Airdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/DeFi_Airdrops
+Call log:
+  - navigating to "https://t.me/s/DeFi_Airdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@Solana_Airdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Solana_Airdrop
+Call log:
+  - navigating to "https://t.me/s/Solana_Airdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropStar): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropStar
+Call log:
+  - navigating to "https://t.me/s/AirdropStar", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Ninjua): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop_Ninjua
+Call log:
+  - navigating to "https://t.me/s/Airdrop_Ninjua", waiting until "domcontentloaded"
+
+❌ TG Error (@GemsAirdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/GemsAirdrop
+Call log:
+  - navigating to "https://t.me/s/GemsAirdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Expert): Page.🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAlert
+Call log:
+  - navigating to "https://t.me/s/AirdropAlert", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop6): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop6
+Call log:
+  - navigating to "https://t.me/s/Airdrop6", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropInspector): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropInspector
+Call log:
+  - navigating to "https://t.me/s/AirdropInspector", waiting until "domcontentloaded"
+
+❌ TG Error (@CryptoAirdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/CryptoAirdrops
+Call log:
+  - navigating to "https://t.me/s/CryptoAirdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropDet): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropDet
+Call log:
+  - navigating to "https://t.me/s/AirdropDet", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropFinder): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropFinder
+Call log:
+  - navigating to "https://t.me/s/AirdropFinder", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropAdventure): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAdventure
+Call log:
+  - navigating to "https://t.me/s/AirdropAdventure", waiting until "domcontentloaded"
+
+❌ TG Error (@ICO_Airdrop_Alert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/ICO_Airdrop_Alert
+Call log:
+  - navigating to "https://t.me/s/ICO_Airdrop_Alert", waiting until "domcontentloaded"
+
+❌ TG Error (@DeFi_Airdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/DeFi_Airdrops
+Call log:
+  - navigating to "https://t.me/s/DeFi_Airdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@Solana_Airdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Solana_Airdrop
+Call log:
+  - navigating to "https://t.me/s/Solana_Airdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropStar): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropStar
+Call log:
+  - navigating to "https://t.me/s/AirdropStar", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Ninjua): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop_Ninjua
+Call log:
+  - navigating to "https://t.me/s/Airdrop_Ninjua", waiting until "domcontentloaded"
+
+❌ TG Error (@GemsAirdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/GemsAirdrop
+Call log:
+  - navigating to "https://t.me/s/GemsAirdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Expert): Page.🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
+❌ TG Error (@AirdropAlert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAlert
+Call log:
+  - navigating to "https://t.me/s/AirdropAlert", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop6): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop6
+Call log:
+  - navigating to "https://t.me/s/Airdrop6", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropInspector): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropInspector
+Call log:
+  - navigating to "https://t.me/s/AirdropInspector", waiting until "domcontentloaded"
+
+❌ TG Error (@CryptoAirdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/CryptoAirdrops
+Call log:
+  - navigating to "https://t.me/s/CryptoAirdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropDet): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropDet
+Call log:
+  - navigating to "https://t.me/s/AirdropDet", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropFinder): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropFinder
+Call log:
+  - navigating to "https://t.me/s/AirdropFinder", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropAdventure): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAdventure
+Call log:
+  - navigating to "https://t.me/s/AirdropAdventure", waiting until "domcontentloaded"
+
+❌ TG Error (@ICO_Airdrop_Alert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/ICO_Airdrop_Alert
+Call log:
+  - navigating to "https://t.me/s/ICO_Airdrop_Alert", waiting until "domcontentloaded"
+
+❌ TG Error (@DeFi_Airdrops): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/DeFi_Airdrops
+Call log:
+  - navigating to "https://t.me/s/DeFi_Airdrops", waiting until "domcontentloaded"
+
+❌ TG Error (@Solana_Airdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Solana_Airdrop
+Call log:
+  - navigating to "https://t.me/s/Solana_Airdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@AirdropStar): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropStar
+Call log:
+  - navigating to "https://t.me/s/AirdropStar", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Ninjua): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/Airdrop_Ninjua
+Call log:
+  - navigating to "https://t.me/s/Airdrop_Ninjua", waiting until "domcontentloaded"
+
+❌ TG Error (@GemsAirdrop): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/GemsAirdrop
+Call log:
+  - navigating to "https://t.me/s/GemsAirdrop", waiting until "domcontentloaded"
+
+❌ TG Error (@Airdrop_Expert): Page.🔍 Scanning X...
+❌ X Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live
+Call log:
+  - navigating to "https://x.com/search?q=airdrop%20OR%20mint%20OR%20presale%20crypto&src=typed_query&f=live", waiting until "domcontentloaded"
+
+📱 Scanning Public Telegram Channels...
 ❌ TG Error (@AirdropAlert): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://t.me/s/AirdropAlert
 Call log:
   - navigating to "https://t.me/s/AirdropAlert", waiting until "domcontentloaded"
