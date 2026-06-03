@@ -5,22 +5,22 @@
             "symbol": "SOL",
             "entry_price": 73.81,
             "entry_time": 1780462351.677276,
-            "current_price": 74.69,
-            "pnl_pct": 1.1922503725782352
+            "current_price": 74.94,
+            "pnl_pct": 1.530957864787963
         },
         "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF": {
             "symbol": "SOL",
             "entry_price": 73.91,
             "entry_time": 1780462351.677289,
-            "current_price": 74.7,
-            "pnl_pct": 1.0688675416046627
+            "current_price": 74.89,
+            "pnl_pct": 1.3259369503450196
         },
         "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn": {
             "symbol": "PUMP",
             "entry_price": 0.001702,
             "entry_time": 1780462351.6773891,
-            "current_price": 0.001715,
-            "pnl_pct": 0.7638072855464154
+            "current_price": 0.001744,
+            "pnl_pct": 2.4676850763807376
         },
         "0x1Eb55169C045DD91ac47A0C3aF2FB1df93064444": {
             "symbol": "Moon",
@@ -82,36 +82,36 @@
             "symbol": "TRUMP",
             "entry_price": 1.97,
             "entry_time": 1780462351.677836,
-            "current_price": 2.0033,
-            "pnl_pct": 1.6903553299492329
+            "current_price": 2.01,
+            "pnl_pct": 2.0304568527918687
         },
         "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
             "symbol": "Bonk",
             "entry_price": 5.03e-06,
             "entry_time": 1780462351.67789,
-            "current_price": 5.048e-06,
-            "pnl_pct": 0.3578528827037705
+            "current_price": 5.1e-06,
+            "pnl_pct": 1.391650099403582
         },
         "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82": {
             "symbol": "BOME",
             "entry_price": 0.0004742,
             "entry_time": 1780462351.677981,
-            "current_price": 0.0004871,
-            "pnl_pct": 2.720371151412915
+            "current_price": 0.0004896,
+            "pnl_pct": 3.2475748629270345
         },
         "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3": {
             "symbol": "SLERF",
             "entry_price": 0.01398,
             "entry_time": 1780462351.678028,
-            "current_price": 0.01417,
-            "pnl_pct": 1.3590844062947134
+            "current_price": 0.01424,
+            "pnl_pct": 1.8597997138769657
         },
         "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed": {
             "symbol": "DEGEN",
             "entry_price": 0.001017,
             "entry_time": 1780462351.6780522,
-            "current_price": 0.001021,
-            "pnl_pct": 0.3933136676499604
+            "current_price": 0.001025,
+            "pnl_pct": 0.7866273352999208
         },
         "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": {
             "symbol": "ZK",
@@ -175,7 +175,35 @@
             "entry_time": 1780463748.712501,
             "current_price": 5.091e-06,
             "pnl_pct": 0.0
+        },
+        "TMacq4TDUw5q8NFBwmbY4RLXvzvG5JTkvi": {
+            "symbol": "PePe",
+            "entry_price": 0.002199,
+            "entry_time": 1780466612.8987021,
+            "current_price": 0.002199,
+            "pnl_pct": 0.0
+        },
+        "DogePMoL8zXQtYbvAYNFTFST9pewYi6uHWpZvFUtnBBz": {
+            "symbol": "DOGE",
+            "entry_price": 0.1112,
+            "entry_time": 1780466959.796438,
+            "current_price": 0.1112,
+            "pnl_pct": 0.0
+        },
+        "0x96e8d3a52Dd950AaCC8d1749932e1C14BC76e371": {
+            "symbol": "Whale",
+            "entry_price": 1.554e-05,
+            "entry_time": 1780467375.342956,
+            "current_price": 1.554e-05,
+            "pnl_pct": 0.0
+        },
+        "A1DBHWmtuYZMpLNXE9xr4B7crD8FAxwHSDnqnk8NwAKS": {
+            "symbol": "PEPE",
+            "entry_price": 3.96e-06,
+            "entry_time": 1780469530.509242,
+            "current_price": 3.96e-06,
+            "pnl_pct": 0.0
         }
     },
-    "total_selected_today": 25
+    "total_selected_today": 29
 }
