@@ -5,15 +5,15 @@
             "symbol": "SOL",
             "entry_price": 73.81,
             "entry_time": 1780462351.677276,
-            "current_price": 72.86,
-            "pnl_pct": -1.2870884703969692
+            "current_price": 73.45,
+            "pnl_pct": -0.48773878878200705
         },
         "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF": {
             "symbol": "SOL",
             "entry_price": 73.91,
             "entry_time": 1780462351.677289,
-            "current_price": 72.86,
-            "pnl_pct": -1.4206467325125114
+            "current_price": 73.4,
+            "pnl_pct": -0.6900284129346379
         },
         "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn": {
             "symbol": "PUMP",
@@ -96,22 +96,22 @@
             "symbol": "BOME",
             "entry_price": 0.0004742,
             "entry_time": 1780462351.677981,
-            "current_price": 0.0004888,
-            "pnl_pct": 3.0788696752425087
+            "current_price": 0.0004897,
+            "pnl_pct": 3.268663011387611
         },
         "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3": {
             "symbol": "SLERF",
             "entry_price": 0.01398,
             "entry_time": 1780462351.678028,
-            "current_price": 0.01391,
-            "pnl_pct": -0.5007153075822524
+            "current_price": 0.014,
+            "pnl_pct": 0.14306151645208098
         },
         "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed": {
             "symbol": "DEGEN",
             "entry_price": 0.001017,
             "entry_time": 1780462351.6780522,
-            "current_price": 0.001101,
-            "pnl_pct": 8.259587020648977
+            "current_price": 0.001119,
+            "pnl_pct": 10.029498525073757
         },
         "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": {
             "symbol": "ZK",
@@ -208,8 +208,8 @@
             "symbol": "$Alpha",
             "entry_price": 0.000196,
             "entry_time": 1780470083.4572191,
-            "current_price": 0.0001638,
-            "pnl_pct": -16.428571428571427
+            "current_price": 0.0001628,
+            "pnl_pct": -16.938775510204078
         },
         "3UQZMLt98j9T1egWLKkz51pwFQWakwzQtse56TGbavXP": {
             "symbol": "SHIB",
@@ -355,8 +355,8 @@
             "symbol": "ALPHA",
             "entry_price": 0.002747,
             "entry_time": 1780478320.284013,
-            "current_price": 0.002405,
-            "pnl_pct": -12.449945394976334
+            "current_price": 0.002351,
+            "pnl_pct": -14.415726246814712
         },
         "0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2aa415df9548b8d688e6683f93::alpha::ALPHA": {
             "symbol": "ALPHA",
@@ -397,8 +397,8 @@
             "symbol": "AI",
             "entry_price": 5.819e-05,
             "entry_time": 1780493226.304109,
-            "current_price": 6.013e-05,
-            "pnl_pct": 3.333906169444931
+            "current_price": 6.192e-05,
+            "pnl_pct": 6.410036088675042
         },
         "6HAH9pQzmmiWqSyv6dwxC345riFsTQAUmPzwx1QB8kXe": {
             "symbol": "Grok",
@@ -460,8 +460,8 @@
             "symbol": "AI",
             "entry_price": 2.194e-05,
             "entry_time": 1780499345.5663779,
-            "current_price": 2.217e-05,
-            "pnl_pct": 1.0483135824977186
+            "current_price": 2.174e-05,
+            "pnl_pct": -0.9115770282588945
         },
         "CMRv3QkykiJ5QTfDNVRLDnyCUEsf2NbWq2en8DZxk48v": {
             "symbol": "AI",
@@ -495,8 +495,8 @@
             "symbol": "AI",
             "entry_price": 8.036e-05,
             "entry_time": 1780504239.306793,
-            "current_price": 8.631e-05,
-            "pnl_pct": 7.404181184669001
+            "current_price": 0.0001281,
+            "pnl_pct": 59.40766550522648
         },
         "FmjijgwEHpe32VPvHy1s7u7TLthh9yu1j75djVbWpump": {
             "symbol": "DEGEN",
