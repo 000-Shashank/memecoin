@@ -5,22 +5,22 @@
             "symbol": "SOL",
             "entry_price": 73.81,
             "entry_time": 1780462351.677276,
-            "current_price": 73.85,
-            "pnl_pct": 0.05419319875354565
+            "current_price": 74.69,
+            "pnl_pct": 1.1922503725782352
         },
         "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF": {
             "symbol": "SOL",
             "entry_price": 73.91,
             "entry_time": 1780462351.677289,
-            "current_price": 73.82,
-            "pnl_pct": -0.12176971992964877
+            "current_price": 74.7,
+            "pnl_pct": 1.0688675416046627
         },
         "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn": {
             "symbol": "PUMP",
             "entry_price": 0.001702,
             "entry_time": 1780462351.6773891,
-            "current_price": 0.001697,
-            "pnl_pct": -0.29377203290246845
+            "current_price": 0.001715,
+            "pnl_pct": 0.7638072855464154
         },
         "0x1Eb55169C045DD91ac47A0C3aF2FB1df93064444": {
             "symbol": "Moon",
@@ -82,36 +82,36 @@
             "symbol": "TRUMP",
             "entry_price": 1.97,
             "entry_time": 1780462351.677836,
-            "current_price": 1.96,
-            "pnl_pct": -0.5076142131979701
+            "current_price": 2.0033,
+            "pnl_pct": 1.6903553299492329
         },
         "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
             "symbol": "Bonk",
             "entry_price": 5.03e-06,
             "entry_time": 1780462351.67789,
-            "current_price": 5.215e-06,
-            "pnl_pct": 3.6779324055665987
+            "current_price": 5.048e-06,
+            "pnl_pct": 0.3578528827037705
         },
         "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82": {
             "symbol": "BOME",
             "entry_price": 0.0004742,
             "entry_time": 1780462351.677981,
-            "current_price": 0.000471,
-            "pnl_pct": -0.6748207507380788
+            "current_price": 0.0004871,
+            "pnl_pct": 2.720371151412915
         },
         "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3": {
             "symbol": "SLERF",
             "entry_price": 0.01398,
             "entry_time": 1780462351.678028,
-            "current_price": 0.01404,
-            "pnl_pct": 0.42918454935623057
+            "current_price": 0.01417,
+            "pnl_pct": 1.3590844062947134
         },
         "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed": {
             "symbol": "DEGEN",
             "entry_price": 0.001017,
             "entry_time": 1780462351.6780522,
-            "current_price": 0.001017,
-            "pnl_pct": 0.0
+            "current_price": 0.001021,
+            "pnl_pct": 0.3933136676499604
         },
         "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": {
             "symbol": "ZK",
@@ -147,7 +147,35 @@
             "entry_time": 1780462492.568369,
             "current_price": 0.0003254,
             "pnl_pct": 0.0
+        },
+        "Fd8TNp5GhhTk6Uq6utMvK13vfQdLN1yUUHCnapWvpump": {
+            "symbol": "DGN",
+            "entry_price": 0.0005458,
+            "entry_time": 1780462634.082758,
+            "current_price": 0.0005458,
+            "pnl_pct": 0.0
+        },
+        "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00": {
+            "symbol": "PEPE",
+            "entry_price": 3.102e-06,
+            "entry_time": 1780462772.324289,
+            "current_price": 3.102e-06,
+            "pnl_pct": 0.0
+        },
+        "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D": {
+            "symbol": "SHIB",
+            "entry_price": 5.254e-06,
+            "entry_time": 1780463120.42716,
+            "current_price": 5.254e-06,
+            "pnl_pct": 0.0
+        },
+        "0x1151CB3d861920e07a38e03eEAd12C32178567F6": {
+            "symbol": "Bonk",
+            "entry_price": 5.091e-06,
+            "entry_time": 1780463748.712501,
+            "current_price": 5.091e-06,
+            "pnl_pct": 0.0
         }
     },
-    "total_selected_today": 21
+    "total_selected_today": 25
 }
