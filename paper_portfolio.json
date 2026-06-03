@@ -1,5 +1,153 @@
 {
     "date": "2026-06-03",
-    "tokens": {},
-    "total_selected_today": 0
+    "tokens": {
+        "0x311935Cd80B76769bF2ecC9D8Ab7635b2139cf82": {
+            "symbol": "SOL",
+            "entry_price": 73.81,
+            "entry_time": 1780462351.677276,
+            "current_price": 73.85,
+            "pnl_pct": 0.05419319875354565
+        },
+        "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF": {
+            "symbol": "SOL",
+            "entry_price": 73.91,
+            "entry_time": 1780462351.677289,
+            "current_price": 73.82,
+            "pnl_pct": -0.12176971992964877
+        },
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn": {
+            "symbol": "PUMP",
+            "entry_price": 0.001702,
+            "entry_time": 1780462351.6773891,
+            "current_price": 0.001697,
+            "pnl_pct": -0.29377203290246845
+        },
+        "0x1Eb55169C045DD91ac47A0C3aF2FB1df93064444": {
+            "symbol": "Moon",
+            "entry_price": 4.614e-05,
+            "entry_time": 1780462351.677452,
+            "current_price": 4.614e-05,
+            "pnl_pct": 0.0
+        },
+        "0x6982508145454Ce325dDbE47a25d4ec3d2311933": {
+            "symbol": "PEPE",
+            "entry_price": 3.116e-06,
+            "entry_time": 1780462351.677509,
+            "current_price": 3.116e-06,
+            "pnl_pct": 0.0
+        },
+        "0xbA2aE424d960c26247Dd6c32edC70B295c744C43": {
+            "symbol": "DOGE",
+            "entry_price": 0.09251,
+            "entry_time": 1780462351.677568,
+            "current_price": 0.09251,
+            "pnl_pct": 0.0
+        },
+        "0x4206931337dc273a630d328dA6441786BfaD668f": {
+            "symbol": "DOGE",
+            "entry_price": 0.09233,
+            "entry_time": 1780462351.6775832,
+            "current_price": 0.09233,
+            "pnl_pct": 0.0
+        },
+        "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE": {
+            "symbol": "SHIB",
+            "entry_price": 5.22e-06,
+            "entry_time": 1780462351.67762,
+            "current_price": 5.22e-06,
+            "pnl_pct": 0.0
+        },
+        "0x4d7078DDd6cCFED2F85dB5B7D3Ff16828d378d48": {
+            "symbol": "AI",
+            "entry_price": 0.02894,
+            "entry_time": 1780462351.677747,
+            "current_price": 0.02894,
+            "pnl_pct": 0.0
+        },
+        "X518bK2Tdn4zJPwEkSeBUbXwMeMapR4BpcUUis8pump": {
+            "symbol": "AI",
+            "entry_price": 2.781e-05,
+            "entry_time": 1780462351.6777668,
+            "current_price": 2.781e-05,
+            "pnl_pct": 0.0
+        },
+        "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3": {
+            "symbol": "ELON",
+            "entry_price": 3.256e-08,
+            "entry_time": 1780462351.6778,
+            "current_price": 3.256e-08,
+            "pnl_pct": 0.0
+        },
+        "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN": {
+            "symbol": "TRUMP",
+            "entry_price": 1.97,
+            "entry_time": 1780462351.677836,
+            "current_price": 1.96,
+            "pnl_pct": -0.5076142131979701
+        },
+        "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+            "symbol": "Bonk",
+            "entry_price": 5.03e-06,
+            "entry_time": 1780462351.67789,
+            "current_price": 5.215e-06,
+            "pnl_pct": 3.6779324055665987
+        },
+        "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82": {
+            "symbol": "BOME",
+            "entry_price": 0.0004742,
+            "entry_time": 1780462351.677981,
+            "current_price": 0.000471,
+            "pnl_pct": -0.6748207507380788
+        },
+        "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3": {
+            "symbol": "SLERF",
+            "entry_price": 0.01398,
+            "entry_time": 1780462351.678028,
+            "current_price": 0.01404,
+            "pnl_pct": 0.42918454935623057
+        },
+        "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed": {
+            "symbol": "DEGEN",
+            "entry_price": 0.001017,
+            "entry_time": 1780462351.6780522,
+            "current_price": 0.001017,
+            "pnl_pct": 0.0
+        },
+        "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": {
+            "symbol": "ZK",
+            "entry_price": 0.01283,
+            "entry_time": 1780462351.6781461,
+            "current_price": 0.01283,
+            "pnl_pct": 0.0
+        },
+        "0xd27aaeead8FdE08Ba292c1E08f53a14c00e7f7c8": {
+            "symbol": "zksync",
+            "entry_price": 3.95,
+            "entry_time": 1780462351.678153,
+            "current_price": 3.95,
+            "pnl_pct": 0.0
+        },
+        "EbnLFfTrjCRayJgVb4TVwmSn1kFTrnHHnfLmAJQLpump": {
+            "symbol": "AIRDROP",
+            "entry_price": 5.217e-05,
+            "entry_time": 1780462351.678197,
+            "current_price": 5.217e-05,
+            "pnl_pct": 0.0
+        },
+        "wXfe7vz2t8an9Ca5dy72ChU54fRvtefDRmb4rzUpump": {
+            "symbol": "AIRDROP",
+            "entry_price": 4.013e-05,
+            "entry_time": 1780462351.678205,
+            "current_price": 4.013e-05,
+            "pnl_pct": 0.0
+        },
+        "0x8390a1DA07E376ef7aDd4Be859BA74Fb83aA02D5": {
+            "symbol": "GROK",
+            "entry_price": 0.0003254,
+            "entry_time": 1780462492.568369,
+            "current_price": 0.0003254,
+            "pnl_pct": 0.0
+        }
+    },
+    "total_selected_today": 21
 }
